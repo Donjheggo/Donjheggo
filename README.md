@@ -1,8 +1,5 @@
 ## Hi, I'm Christian Jhegg Fermilan; You can call me Jhegg 👋
 
-### About Me
-* Web Development (Django)
-
 
 ### About Me
 * Web Development (Django)
