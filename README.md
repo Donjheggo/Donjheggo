@@ -5,7 +5,7 @@
 * Web Development (Django)
 * How to reach me: 
     * email - christianjheggfer@gmail.com
-    * linkedin - https://www.linkedin.com/in/christian-jhegg-fermilan-216752222/
+    * linkedin - www.linkedin.com/in/donjheggo
     * facebook - https://www.facebook.com/Donjheggo/
 
 ### Educational Background
