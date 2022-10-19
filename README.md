@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, I'm Christian Jhegg Fermilan; You can call me Jhegg 👋
 
-<!--
-**Donjheggo/Donjheggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+* Web Development (Django)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+* Web Development (Django)
+* How to reach me: 
+    * email - christianjheggfer@gmail.com
+    * linkedin - https://www.linkedin.com/in/christian-jhegg-fermilan-216752222/
+    * facebook - https://www.facebook.com/Donjheggo/
+
+### Educational Background
+* Bachelor of Science in Information Technology - https://snsu.edu.ph/
+
+### Skills
+* Language - Python
+* Framework - Django
+* Databases - MongoDB, PostgreSQL, MySQL
+* Tools - CLI, Git, Github
+
