@@ -14,6 +14,6 @@
 ### Skills
 * Language - Python
 * Framework - Django
-* Databases - MongoDB, PostgreSQL, MySQL, SQLite3
+* Databases - PostgreSQL, MongoDB, MySQL, SQLite3
 * Tools - CLI, Git, Github
 
