@@ -1,4 +1,4 @@
-## Hi, I'm Christian Jhegg Fermilan; You can call me Jhegg 👋
+## Hi, I'm Jhegg 👋
 
 
 ### About Me
