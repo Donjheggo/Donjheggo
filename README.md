@@ -16,4 +16,5 @@
 * Framework - Django
 * Databases - PostgreSQL, MongoDB, MySQL, SQLite3
 * Tools - CLI, Git, Github
+* Currently learning [MERN Stack]
 
