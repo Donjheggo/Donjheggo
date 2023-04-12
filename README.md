@@ -4,9 +4,9 @@
 ### About Me
 * Web Development (MERN Stack & Python Django)
 * How to reach me: 
-    * portfolio - [https://cjfermilan.dev](https://cjfermilan.dev/)
     * email - christianjheggfer@gmail.com
     * linkedin - www.linkedin.com/in/donjheggo
+    * portfolio - [https://cjfermilan.dev](https://cjfermilan.dev/)
     * facebook - https://www.facebook.com/Donjheggo/
 
 ### Educational Background
