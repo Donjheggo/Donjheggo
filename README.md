@@ -2,7 +2,7 @@
 
 
 ### About Me
-* Front-end Developer (React JS)
+* Front-end Developer
 * How to reach me: 
     * email - christianjheggfer@gmail.com
     * linkedin - www.linkedin.com/in/donjheggo
