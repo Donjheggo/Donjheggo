@@ -15,5 +15,6 @@
 * Languages - Javascript, Python
 * Frameworks - ReactJs, NodeJs, ExpressJS, Django
 * Databases - MongoDB, SQLite3, MySQL, PostgreSQL
-* Tools - VS Code
 * Version Control - Github
+* Tools - VS Code
+
