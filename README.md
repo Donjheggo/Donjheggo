@@ -2,19 +2,18 @@
 
 
 ### About Me
-* Web Development (MERN Stack & Python Django)
+* Front-end Developer (React JS)
 * How to reach me: 
     * email - christianjheggfer@gmail.com
     * linkedin - www.linkedin.com/in/donjheggo
     * portfolio - [https://cjfermilan.dev](https://cjfermilan.dev/)
-    * facebook - https://www.facebook.com/Donjheggo/
 
 ### Educational Background
-* Bachelor of Science in Information Technology - https://snsu.edu.ph/
+* Bachelor of Science in Information Technology - https://snsu.edu.ph/ [2019 - 2023]
 
 ### Skills
-* Language - Python, Javascript
-* Framework - Django, ReactJs, ExpressJs, NodeJs
-* Databases - MongoDB, SQLite3, MySQL,PostgreSQL, 
-* Tools - CLI, Git, Github
-
+* Languages - Javascript, Python
+* Frameworks - ReactJs, NodeJs, ExpressJS, Django
+* Databases - MongoDB, SQLite3, MySQL, PostgreSQL
+* Tools - VS Code
+* Version Control - Github
