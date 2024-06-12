@@ -6,7 +6,7 @@
 * How to reach me: 
     * email - christianjheggfer@gmail.com
     * linkedin - www.linkedin.com/in/donjheggo
-    * portfolio - [https://cjfermilan.dev](https://cjfermilan.dev/)
+    * portfolio - [https://cjfermilan.netlify.app](https://cjfermilan.netlify.app)
 
 ### Educational Background
 * Bachelor of Science in Information Technology - https://snsu.edu.ph/ [2019 - 2023]
