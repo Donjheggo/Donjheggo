@@ -12,8 +12,8 @@
 * Bachelor of Science in Information Technology - https://snsu.edu.ph/ [2019 - 2023]
 
 ### Skills
-* Languages - Javascript, Python
-* Frameworks - ReactJs, NodeJs, ExpressJS, Django
+* Languages - Javascript, Typescript, Python
+* Frameworks - ReactJs, NextJS, NodeJs, ExpressJS, Django
 * Databases - MongoDB, SQLite3, MySQL, PostgreSQL
 * Version Control - Github
 * Tools - VS Code
