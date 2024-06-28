@@ -14,7 +14,7 @@
 ### Skills
 * Languages - Javascript, Typescript, Python
 * Frameworks - ReactJs, NextJS, NodeJs, ExpressJS, Django
-* Databases - MongoDB, SQLite3, MySQL, PostgreSQL
+* Databases - MongoDB, SQLite3, PostgreSQL
 * Version Control - Github
 * Tools - VS Code
 
