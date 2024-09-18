@@ -13,8 +13,8 @@
 
 ### Skills
 * Languages - Javascript, Typescript, Python
-* Frameworks - ReactJs, NextJS, NodeJs, ExpressJS, Django
-* ORM/Database - MongoDB, SQLite3, PostgreSQL
+* Frameworks - ReactJs, React Native, NextJS, Expo, NodeJs, ExpressJS, Django
+* ORM/Database - MongoDB, PostgreSQL
 * Version Control - Github
 * Tools - VS Code
 
