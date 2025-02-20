@@ -9,7 +9,7 @@
     * portfolio - [https://cjfermilan.pro](https://cjfermilan.pro)
 
 ### Educational Background
-* Bachelor of Science in Information Technology - https://snsu.edu.ph/ [2019 - 2023]
+* Bachelor of Science in Information Technology - https://snsu.edu.ph/
 
 ### Skills
 * Languages - Javascript, Typescript, Python
